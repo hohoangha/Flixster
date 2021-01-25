@@ -23,7 +23,7 @@ Flixster Android app for CodePath
 <img src="walkthrough1.gif" height=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+- Sending an API request for the first time receives the error 500, so need to reinstall the application after setting uses-permission to INTERNET    
 
 ### Open-source libraries used
 
