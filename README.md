@@ -20,7 +20,7 @@ Flixster Android app for CodePath
 
 <img src="walkthrough.gif" width=250><br>
 
-<img src="walkthrough1.gif" width=250><br>
+<img src="walkthrough1.gif" height=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
