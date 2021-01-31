@@ -22,7 +22,8 @@ Flixster Android app for CodePath
 
 ### App Walkthough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="walkthough2.gif" width=250><br>
+<img src="walkthrough3.gif" height=250><br>
 
 ### Notes
 - Have not encountered any challenges while building the app
